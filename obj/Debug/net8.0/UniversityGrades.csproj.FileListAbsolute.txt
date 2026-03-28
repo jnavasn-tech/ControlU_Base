@@ -83,3 +83,4 @@ D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTW
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\obj\Debug\net8.0\UniversityGrades.pdb
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\obj\Debug\net8.0\UniversityGrades.genruntimeconfig.cache
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\obj\Debug\net8.0\ref\UniversityGrades.dll
+D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\obj\Debug\net8.0\UniversityGrades.sourcelink.json

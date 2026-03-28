@@ -239,3 +239,4 @@ D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTW
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\Tests\obj\Debug\net8.0\UniversityGrades.Tests.pdb
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\Tests\obj\Debug\net8.0\UniversityGrades.Tests.genruntimeconfig.cache
 D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\Tests\obj\Debug\net8.0\ref\UniversityGrades.Tests.dll
+D:\Usuarios\Jnavas\Desktop\UNIVERSIDAD JOSUE\NOVENO SEMESTRE\INGENIERIA DE SOFTWARE\ControlU_Base\Tests\obj\Debug\net8.0\UniversityGrades.Tests.sourcelink.json
