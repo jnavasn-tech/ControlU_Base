@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuarios\\Jnavas\\Desktop\\UNIVERSIDAD JOSUE\\NOVENO SEMESTRE\\INGENIERIA DE SOFTWARE\\ControlU_Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E02F4EF3-A79C-64A7-BBD0-B248120170F4}|UniversityGrades.csproj|d:\\usuarios\\jnavas\\desktop\\universidad josue\\noveno semestre\\ingenieria de software\\controlu_base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02F4EF3-A79C-64A7-BBD0-B248120170F4}|UniversityGrades.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Usuarios\\Jnavas\\Desktop\\UNIVERSIDAD JOSUE\\NOVENO SEMESTRE\\INGENIERIA DE SOFTWARE\\ControlU_Base\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Usuarios\\Jnavas\\Desktop\\UNIVERSIDAD JOSUE\\NOVENO SEMESTRE\\INGENIERIA DE SOFTWARE\\ControlU_Base\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:48:31.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
